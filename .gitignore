@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE directories
+.vs/
+
+# Playwright artifacts
+ms-playwright/
+.playwright-install-marker
+
+# Misc
+*.swp
+*.tmp
+*.bak
